@@ -13,3 +13,7 @@ https://colab.research.google.com/drive/1D4fDZrbaHWv1_pTBgGUVVlpZFLNIgeUY?usp=sh
 ## Lab Exercise 4- Dot Product vs Scaled Dot Product Attention (PyTorch)
 
 https://colab.research.google.com/drive/1MEeNwFuVwFz38dgwmYPXuuE5zxddFl7l?usp=sharing
+
+## Lab Exercise 5- Understanding Transformers in LLMs
+
+https://colab.research.google.com/drive/1NDr4VjPLq3_w5HlxISvk-_Id0XLTsm5x?usp=sharing
