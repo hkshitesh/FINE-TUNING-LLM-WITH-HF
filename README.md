@@ -17,3 +17,7 @@ https://colab.research.google.com/drive/1MEeNwFuVwFz38dgwmYPXuuE5zxddFl7l?usp=sh
 ## Lab Exercise 5- Understanding Transformers in LLMs
 
 https://colab.research.google.com/drive/1NDr4VjPLq3_w5HlxISvk-_Id0XLTsm5x?usp=sharing
+
+## Lab Exercise 6- Full Fine-Tuning of FLAN-T5 and Verifying Catastrophic Forgetting
+
+https://colab.research.google.com/drive/1ds5KLsXcaeXTCFuDm0shge5kz1oSXpsq?usp=sharing
