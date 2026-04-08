@@ -21,3 +21,7 @@ https://colab.research.google.com/drive/1NDr4VjPLq3_w5HlxISvk-_Id0XLTsm5x?usp=sh
 ## Lab Exercise 6- Full Fine-Tuning of FLAN-T5 and Verifying Catastrophic Forgetting
 
 https://colab.research.google.com/drive/1ds5KLsXcaeXTCFuDm0shge5kz1oSXpsq?usp=sharing
+
+## Lab Exercise 8- Fine-Tuning with PEFT (LoRA) on FLAN-T5 for NER and Summarization
+
+https://colab.research.google.com/drive/12qao1i-ebzBiakrjQ-21mlnjcw2dXr6Y?usp=sharing
