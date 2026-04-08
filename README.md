@@ -25,3 +25,7 @@ https://colab.research.google.com/drive/1ds5KLsXcaeXTCFuDm0shge5kz1oSXpsq?usp=sh
 ## Lab Exercise 8- Fine-Tuning with PEFT (LoRA) on FLAN-T5 for NER and Summarization
 
 https://colab.research.google.com/drive/12qao1i-ebzBiakrjQ-21mlnjcw2dXr6Y?usp=sharing
+
+## Lab Exercise 9- Using RLHF to Avoid Hateful Responses from an LLM
+
+https://colab.research.google.com/drive/1oQyymGYP6jqnaT-uzeeUv0Ss6XunVpYG?usp=sharing
