@@ -37,3 +37,9 @@ https://colab.research.google.com/drive/1KXaYE6s4uYA0bsKnJXSCOx1EHmYXdpZQ?usp=sh
 ## Lab Exercise 11: RAG-Implementation using Google Colab
 
 https://colab.research.google.com/drive/1Vz_5yXRwdOZ_wjmhBDtc4OA21Y1I4-mz?usp=sharing
+
+## Lab Exercise 12: AI-Agent using Azure OpenAI (GPT-4o) in Colab
+
+https://colab.research.google.com/drive/1Yqsl5mBlPrsqe6ckiWxJxX13RkSEcYRR?usp=sharing
+
+
