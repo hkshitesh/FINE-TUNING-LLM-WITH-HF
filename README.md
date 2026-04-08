@@ -42,4 +42,8 @@ https://colab.research.google.com/drive/1Vz_5yXRwdOZ_wjmhBDtc4OA21Y1I4-mz?usp=sh
 
 https://colab.research.google.com/drive/1Yqsl5mBlPrsqe6ckiWxJxX13RkSEcYRR?usp=sharing
 
+## Capstone Project: Comparison of RAG and Fine-Tuning for Large Language Models
+
+https://colab.research.google.com/drive/1camJITprlKHd3wFE-MKr8ku4w0gRHT7D?usp=sharing
+
 
