@@ -29,3 +29,7 @@ https://colab.research.google.com/drive/12qao1i-ebzBiakrjQ-21mlnjcw2dXr6Y?usp=sh
 ## Lab Exercise 9- Using RLHF to Avoid Hateful Responses from an LLM
 
 https://colab.research.google.com/drive/1oQyymGYP6jqnaT-uzeeUv0Ss6XunVpYG?usp=sharing
+
+## Lab Exercise 10- Quantizing an LLM with 4-bit (bitsandbytes) and Benchmarking Inference
+
+https://colab.research.google.com/drive/1KXaYE6s4uYA0bsKnJXSCOx1EHmYXdpZQ?usp=sharing
